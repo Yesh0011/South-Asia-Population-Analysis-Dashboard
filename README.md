@@ -21,7 +21,7 @@ This is my first Power BI dashboard, visualizing population-related data from 8 
    - Tooltip: Displays unemployment variations over time when hovered over.  
 
 4. **Infant Mortality Trends**:  
-   - Line chart showing how infant mortality rates have changed over time.  
+   - Bar chart showing how infant mortality rates have changed over time.  
 
 ## Data  
 The dataset focuses solely on population-related metrics, extracted from publicly available sources.  
